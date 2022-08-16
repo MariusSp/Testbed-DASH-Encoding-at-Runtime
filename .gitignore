@@ -1,0 +1,11 @@
+**/node_modules
+**/.vagrant
+**/.idea
+**/.DS_Store
+
+client/data/logs
+server/data/logs
+/server/data/public/javascripts/dash.all.debug.js
+/netem.zip
+/server.zip
+/client.zip
